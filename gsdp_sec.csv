@@ -1,0 +1,568 @@
+,Sub-Sectors,Sector,State,GPV
+0,Crops,Primary,Andhra Pradesh,7893514.0
+1,Livestock,Primary,Andhra Pradesh,4309078.0
+2,Forestry and logging,Primary,Andhra Pradesh,346160.0
+3,Fishing and aquaculture,Primary,Andhra Pradesh,2270664.0
+4,Mining and quarrying,Primary,Andhra Pradesh,1484300.0
+5,Manufacturing,Secondary,Andhra Pradesh,4672266.0
+6,"Electricity, gas, water supply & other utility services",Secondary,Andhra Pradesh,1151729.0
+7,Construction,Secondary,Andhra Pradesh,4664889.0
+8,Trade & repair services,Tertiary,Andhra Pradesh,3716000.0
+9,Hotels & restaurants,Tertiary,Andhra Pradesh,517400.0
+10,Railways,Tertiary,Andhra Pradesh,424228.0
+11,Road transport,Tertiary,Andhra Pradesh,2816000.0
+12,Water transport,Tertiary,Andhra Pradesh,94200.0
+13,Air transport,Tertiary,Andhra Pradesh,14900.0
+14,Services incidental to transport,Tertiary,Andhra Pradesh,780200.0
+15,Storage,Tertiary,Andhra Pradesh,18700.0
+16,Communication & services related to broadcasting,Tertiary,Andhra Pradesh,928756.0
+17,Financial services,Tertiary,Andhra Pradesh,1900863.0
+18,"Real estate, ownership of dwelling & professional services",Tertiary,Andhra Pradesh,4405409.0
+19,Public administration,Tertiary,Andhra Pradesh,2200897.0
+20,Other services,Tertiary,Andhra Pradesh,4215389.0
+21,Crops,Primary,Arunachal Pradesh,415520.0
+22,Livestock,Primary,Arunachal Pradesh,38387.0
+23,Forestry and logging,Primary,Arunachal Pradesh,224017.0
+24,Fishing and aquaculture,Primary,Arunachal Pradesh,8193.0
+25,Mining and quarrying,Primary,Arunachal Pradesh,30842.0
+26,Manufacturing,Secondary,Arunachal Pradesh,26120.0
+27,"Electricity, gas, water supply & other utility services",Secondary,Arunachal Pradesh,113527.0
+28,Construction,Secondary,Arunachal Pradesh,147842.0
+29,Trade & repair services,Tertiary,Arunachal Pradesh,56796.0
+30,Hotels & restaurants,Tertiary,Arunachal Pradesh,3625.0
+31,Railways,Tertiary,Arunachal Pradesh,59.0
+32,Road transport,Tertiary,Arunachal Pradesh,15467.0
+33,Water transport,Tertiary,Arunachal Pradesh,0.0
+34,Air transport,Tertiary,Arunachal Pradesh,0.0
+35,Services incidental to transport,Tertiary,Arunachal Pradesh,109.0
+36,Storage,Tertiary,Arunachal Pradesh,0.0
+37,Communication & services related to broadcasting,Tertiary,Arunachal Pradesh,19568.0
+38,Financial services,Tertiary,Arunachal Pradesh,25207.0
+39,"Real estate, ownership of dwelling & professional services",Tertiary,Arunachal Pradesh,48418.0
+40,Public administration,Tertiary,Arunachal Pradesh,243867.0
+41,Other services,Tertiary,Arunachal Pradesh,218728.0
+42,Crops,Primary,Assam,2890544.0
+43,Livestock,Primary,Assam,173478.0
+44,Forestry and logging,Primary,Assam,261987.0
+45,Fishing and aquaculture,Primary,Assam,529539.0
+46,Mining and quarrying,Primary,Assam,1471149.0
+47,Manufacturing,Secondary,Assam,2002936.0
+48,"Electricity, gas, water supply & other utility services",Secondary,Assam,296587.0
+49,Construction,Secondary,Assam,1733568.0
+50,Trade & repair services,Tertiary,Assam,2876251.0
+51,Hotels & restaurants,Tertiary,Assam,110904.0
+52,Railways,Tertiary,Assam,252509.0
+53,Road transport,Tertiary,Assam,507668.0
+54,Water transport,Tertiary,Assam,4502.0
+55,Air transport,Tertiary,Assam,26223.0
+56,Services incidental to transport,Tertiary,Assam,35739.0
+57,Storage,Tertiary,Assam,10308.0
+58,Communication & services related to broadcasting,Tertiary,Assam,357619.0
+59,Financial services,Tertiary,Assam,543651.0
+60,"Real estate, ownership of dwelling & professional services",Tertiary,Assam,1412466.0
+61,Public administration,Tertiary,Assam,1373611.0
+62,Other services,Tertiary,Assam,1795658.0
+63,Crops,Primary,Bihar,4688237.0
+64,Livestock,Primary,Bihar,2060296.0
+65,Forestry and logging,Primary,Bihar,550132.0
+66,Fishing and aquaculture,Primary,Bihar,653224.0
+67,Mining and quarrying,Primary,Bihar,68107.0
+68,Manufacturing,Secondary,Bihar,2189965.0
+69,"Electricity, gas, water supply & other utility services",Secondary,Bihar,345168.0
+70,Construction,Secondary,Bihar,3449763.0
+71,Trade & repair services,Tertiary,Bihar,7081391.0
+72,Hotels & restaurants,Tertiary,Bihar,366982.0
+73,Railways,Tertiary,Bihar,462413.0
+74,Road transport,Tertiary,Bihar,1572288.0
+75,Water transport,Tertiary,Bihar,2228.0
+76,Air transport,Tertiary,Bihar,13599.0
+77,Services incidental to transport,Tertiary,Bihar,166600.0
+78,Storage,Tertiary,Bihar,10618.0
+79,Communication & services related to broadcasting,Tertiary,Bihar,919427.0
+80,Financial services,Tertiary,Bihar,1178022.0
+81,"Real estate, ownership of dwelling & professional services",Tertiary,Bihar,3740641.0
+82,Public administration,Tertiary,Bihar,2078171.0
+83,Other services,Tertiary,Bihar,4587589.0
+84,Crops,Primary,Chhattisgarh,2613371.0
+85,Livestock,Primary,Chhattisgarh,352208.0
+86,Forestry and logging,Primary,Chhattisgarh,597785.0
+87,Fishing and aquaculture,Primary,Chhattisgarh,385483.0
+88,Mining and quarrying,Primary,Chhattisgarh,2451970.0
+89,Manufacturing,Secondary,Chhattisgarh,4370593.0
+90,"Electricity, gas, water supply & other utility services",Secondary,Chhattisgarh,1198438.0
+91,Construction,Secondary,Chhattisgarh,2669855.0
+92,Trade & repair services,Tertiary,Chhattisgarh,1414164.0
+93,Hotels & restaurants,Tertiary,Chhattisgarh,121407.0
+94,Railways,Tertiary,Chhattisgarh,159176.0
+95,Road transport,Tertiary,Chhattisgarh,386628.0
+96,Water transport,Tertiary,Chhattisgarh,0.0
+97,Air transport,Tertiary,Chhattisgarh,9507.0
+98,Services incidental to transport,Tertiary,Chhattisgarh,5232.0
+99,Storage,Tertiary,Chhattisgarh,16675.0
+100,Communication & services related to broadcasting,Tertiary,Chhattisgarh,294552.0
+101,Financial services,Tertiary,Chhattisgarh,739057.0
+102,"Real estate, ownership of dwelling & professional services",Tertiary,Chhattisgarh,2462166.0
+103,Public administration,Tertiary,Chhattisgarh,867982.0
+104,Other services,Tertiary,Chhattisgarh,1112232.0
+105,Crops,Primary,Goa,140421.0
+106,Livestock,Primary,Goa,30141.0
+107,Forestry and logging,Primary,Goa,15744.0
+108,Fishing and aquaculture,Primary,Goa,122201.0
+109,Mining and quarrying,Primary,Goa,3622.0
+110,Manufacturing,Secondary,Goa,1177608.0
+111,"Electricity, gas, water supply & other utility services",Secondary,Goa,204110.0
+112,Construction,Secondary,Goa,165819.0
+113,Trade & repair services,Tertiary,Goa,343492.0
+114,Hotels & restaurants,Tertiary,Goa,37434.0
+115,Railways,Tertiary,Goa,15649.0
+116,Road transport,Tertiary,Goa,46171.0
+117,Water transport,Tertiary,Goa,17820.0
+118,Air transport,Tertiary,Goa,46359.0
+119,Services incidental to transport,Tertiary,Goa,19272.0
+120,Storage,Tertiary,Goa,357.0
+121,Communication & services related to broadcasting,Tertiary,Goa,44028.0
+122,Financial services,Tertiary,Goa,233618.0
+123,"Real estate, ownership of dwelling & professional services",Tertiary,Goa,407099.0
+124,Public administration,Tertiary,Goa,346486.0
+125,Other services,Tertiary,Goa,180431.0
+126,Crops,Primary,Gujarat,9671086.0
+127,Livestock,Primary,Gujarat,2698910.0
+128,Forestry and logging,Primary,Gujarat,761616.0
+129,Fishing and aquaculture,Primary,Gujarat,638357.0
+130,Mining and quarrying,Primary,Gujarat,2117218.0
+131,Manufacturing,Secondary,Gujarat,24087538.0
+132,"Electricity, gas, water supply & other utility services",Secondary,Gujarat,3409983.0
+133,Construction,Secondary,Gujarat,5526017.0
+134,Trade & repair services,Tertiary,Gujarat,10178713.0
+135,Hotels & restaurants,Tertiary,Gujarat,
+136,Railways,Tertiary,Gujarat,511593.0
+137,Road transport,Tertiary,Gujarat,
+138,Water transport,Tertiary,Gujarat,
+139,Air transport,Tertiary,Gujarat,
+140,Services incidental to transport*,,Gujarat,2744163.0
+141,Storage,Tertiary,Gujarat,57634.0
+142,Communication & services related to broadcasting,Tertiary,Gujarat,1242520.0
+143,Financial services,Tertiary,Gujarat,4606644.0
+144,"Real estate, ownership of dwelling & professional services",Tertiary,Gujarat,5179502.0
+145,Public administration,Tertiary,Gujarat,2576195.0
+146,Other services,Tertiary,Gujarat,3123413.0
+147,Crops,Primary,Haryana,4636731.0
+148,Livestock,Primary,Haryana,2916173.0
+149,Forestry and logging,Primary,Haryana,352254.0
+150,Fishing and aquaculture,Primary,Haryana,110080.0
+151,Mining and quarrying,Primary,Haryana,25186.0
+152,Manufacturing,Secondary,Haryana,7756921.0
+153,"Electricity, gas, water supply & other utility services",Secondary,Haryana,1101919.0
+154,Construction,Secondary,Haryana,3702571.0
+155,Trade & repair services,Tertiary,Haryana,4817784.0
+156,Hotels & restaurants,Tertiary,Haryana,168535.0
+157,Railways,Tertiary,Haryana,423873.0
+158,Road transport,Tertiary,Haryana,1452364.0
+159,Water transport,Tertiary,Haryana,
+160,Air transport,Tertiary,Haryana,
+161,Services incidental to transport,Tertiary,Haryana,190269.0
+162,Storage,Tertiary,Haryana,14459.0
+163,Communication & services related to broadcasting,Tertiary,Haryana,479658.0
+164,Financial services,Tertiary,Haryana,1671486.0
+165,"Real estate, ownership of dwelling & professional services",Tertiary,Haryana,6970183.0
+166,Public administration,Tertiary,Haryana,1036377.0
+167,Other services,Tertiary,Haryana,2001581.0
+168,Crops,Primary,Himachal Pradesh,853758.0
+169,Livestock,Primary,Himachal Pradesh,110304.0
+170,Forestry and logging,Primary,Himachal Pradesh,540950.0
+171,Fishing and aquaculture,Primary,Himachal Pradesh,9968.0
+172,Mining and quarrying,Primary,Himachal Pradesh,33385.0
+173,Manufacturing,Secondary,Himachal Pradesh,2543637.0
+174,"Electricity, gas, water supply & other utility services",Secondary,Himachal Pradesh,767268.0
+175,Construction,Secondary,Himachal Pradesh,808256.0
+176,Trade & repair services,Tertiary,Himachal Pradesh,494162.0
+177,Hotels & restaurants,Tertiary,Himachal Pradesh,121333.0
+178,Railways,Tertiary,Himachal Pradesh,2528.0
+179,Road transport,Tertiary,Himachal Pradesh,349608.0
+180,Water transport,Tertiary,Himachal Pradesh,0.0
+181,Air transport,Tertiary,Himachal Pradesh,3979.0
+182,Services incidental to transport,Tertiary,Himachal Pradesh,1724.0
+183,Storage,Tertiary,Himachal Pradesh,129.0
+184,Communication & services related to broadcasting,Tertiary,Himachal Pradesh,194266.0
+185,Financial services,Tertiary,Himachal Pradesh,362521.0
+186,"Real estate, ownership of dwelling & professional services",Tertiary,Himachal Pradesh,1125937.0
+187,Public administration,Tertiary,Himachal Pradesh,553974.0
+188,Other services,Tertiary,Himachal Pradesh,923164.0
+189,Crops,Primary,Jharkhand,2094466.0
+190,Livestock,Primary,Jharkhand,562503.0
+191,Forestry and logging,Primary,Jharkhand,445149.0
+192,Fishing and aquaculture,Primary,Jharkhand,108947.0
+193,Mining and quarrying,Primary,Jharkhand,2037289.0
+194,Manufacturing,Secondary,Jharkhand,4114148.0
+195,"Electricity, gas, water supply & other utility services",Secondary,Jharkhand,337489.0
+196,Construction,Secondary,Jharkhand,1789834.0
+197,Trade & repair services,Tertiary,Jharkhand,1840196.0
+198,Hotels & restaurants,Tertiary,Jharkhand,151163.0
+199,Railways,Tertiary,Jharkhand,472702.0
+200,Road transport,Tertiary,Jharkhand,649648.0
+201,Water transport,Tertiary,Jharkhand,0.0
+202,Air transport,Tertiary,Jharkhand,6716.0
+203,Services incidental to transport,Tertiary,Jharkhand,17436.0
+204,Storage,Tertiary,Jharkhand,306.0
+205,Communication & services related to broadcasting,Tertiary,Jharkhand,323214.0
+206,Financial services,Tertiary,Jharkhand,551441.0
+207,"Real estate, ownership of dwelling & professional services",Tertiary,Jharkhand,1656784.0
+208,Public administration,Tertiary,Jharkhand,1088325.0
+209,Other services,Tertiary,Jharkhand,1375410.0
+210,Crops,Primary,Karnataka,8157179.0
+211,Livestock,Primary,Karnataka,1868771.0
+212,Forestry and logging,Primary,Karnataka,693082.0
+213,Fishing and aquaculture,Primary,Karnataka,500390.0
+214,Mining and quarrying,Primary,Karnataka,846882.0
+215,Manufacturing,Secondary,Karnataka,12953843.0
+216,"Electricity, gas, water supply & other utility services",Secondary,Karnataka,1425762.0
+217,Construction,Secondary,Karnataka,6104799.0
+218,Trade & repair services,Tertiary,Karnataka,7523720.0
+219,Hotels & restaurants,Tertiary,Karnataka,1467938.0
+220,Railways,Tertiary,Karnataka,259482.0
+221,Road transport,Tertiary,Karnataka,3194576.0
+222,Water transport,Tertiary,Karnataka,24152.0
+223,Air transport,Tertiary,Karnataka,171785.0
+224,Services incidental to transport,Tertiary,Karnataka,55349.0
+225,Storage,Tertiary,Karnataka,42787.0
+226,Communication & services related to broadcasting,Tertiary,Karnataka,1349520.0
+227,Financial services,Tertiary,Karnataka,4094169.0
+228,"Real estate, ownership of dwelling & professional services",Tertiary,Karnataka,24766393.0
+229,Public administration,Tertiary,Karnataka,2232584.0
+230,Other services,Tertiary,Karnataka,5308174.0
+231,Crops,Primary,Kerala,3070386.0
+232,Livestock,Primary,Kerala,1656104.0
+233,Forestry and logging,Primary,Kerala,499808.0
+234,Fishing and aquaculture,Primary,Kerala,704319.0
+235,Mining and quarrying,Primary,Kerala,558824.0
+236,Manufacturing,Secondary,Kerala,4273567.0
+237,"Electricity, gas, water supply & other utility services",Secondary,Kerala,482470.0
+238,Construction,Secondary,Kerala,7314003.0
+239,Trade & repair services*,,Kerala,7763847.0
+240,Hotels & restaurants,Tertiary,Kerala,793498.0
+241,Railways,Tertiary,Kerala,147897.0
+242,Road transport**,,Kerala,2761427.0
+243,Water transport,Tertiary,Kerala,26956.0
+244,Air transport,Tertiary,Kerala,125029.0
+245,Services incidental to transport,Tertiary,Kerala,71567.0
+246,Storage,Tertiary,Kerala,3290.0
+247,Communication & services related to broadcasting,Tertiary,Kerala,884767.0
+248,Financial services,Tertiary,Kerala,2010306.0
+249,"Real estate, ownership of dwelling & professional services",Tertiary,Kerala,7287633.0
+250,Public administration,Tertiary,Kerala,2068915.0
+251,Other services,Tertiary,Kerala,5728645.0
+252,Crops,Primary,Madhya Pradesh,13216013.0
+253,Livestock,Primary,Madhya Pradesh,1932769.0
+254,Forestry and logging,Primary,Madhya Pradesh,965588.0
+255,Fishing and aquaculture,Primary,Madhya Pradesh,121277.0
+256,Mining and quarrying,Primary,Madhya Pradesh,1618373.0
+257,Manufacturing,Secondary,Madhya Pradesh,4368833.0
+258,"Electricity, gas, water supply & other utility services",Secondary,Madhya Pradesh,1272905.0
+259,Construction,Secondary,Madhya Pradesh,4403151.0
+260,Trade & repair services,Tertiary,Madhya Pradesh,5053625.0
+261,Hotels & restaurants,Tertiary,Madhya Pradesh,303890.0
+262,Railways,Tertiary,Madhya Pradesh,498734.0
+263,Road transport,Tertiary,Madhya Pradesh,1369235.0
+264,Water transport,Tertiary,Madhya Pradesh,0.0
+265,Air transport,Tertiary,Madhya Pradesh,26746.0
+266,Services incidental to transport,Tertiary,Madhya Pradesh,36694.0
+267,Storage,Tertiary,Madhya Pradesh,29012.0
+268,Communication & services related to broadcasting,Tertiary,Madhya Pradesh,905381.0
+269,Financial services,Tertiary,Madhya Pradesh,1988794.0
+270,"Real estate, ownership of dwelling & professional services",Tertiary,Madhya Pradesh,2660123.0
+271,Public administration,Tertiary,Madhya Pradesh,2497321.0
+272,Other services,Tertiary,Madhya Pradesh,2747805.0
+273,Crops,Primary,Maharashtra,10435121.0
+274,Livestock,Primary,Maharashtra,3972829.0
+275,Forestry and logging,Primary,Maharashtra,1592564.0
+276,Fishing and aquaculture,Primary,Maharashtra,475141.0
+277,Mining and quarrying,Primary,Maharashtra,5282727.0
+278,Manufacturing,Secondary,Maharashtra,33660294.0
+279,"Electricity, gas, water supply & other utility services",Secondary,Maharashtra,4334702.0
+280,Construction,Secondary,Maharashtra,9450211.0
+281,Trade & repair services,Tertiary,Maharashtra,14286902.0
+282,Hotels & restaurants,Tertiary,Maharashtra,1552198.0
+283,Railways,Tertiary,Maharashtra,797933.0
+284,Road transport,Tertiary,Maharashtra,4644123.0
+285,Water transport,Tertiary,Maharashtra,223626.0
+286,Air transport,Tertiary,Maharashtra,174188.0
+287,Services incidental to transport,Tertiary,Maharashtra,1175023.0
+288,Storage,Tertiary,Maharashtra,131237.0
+289,Communication & services related to broadcasting,Tertiary,Maharashtra,2551115.0
+290,Financial services,Tertiary,Maharashtra,16143324.0
+291,"Real estate, ownership of dwelling & professional services",Tertiary,Maharashtra,30718051.0
+292,Public administration,Tertiary,Maharashtra,5426991.0
+293,Other services,Tertiary,Maharashtra,10806363.0
+294,Crops,Primary,Manipur,226583.0
+295,Livestock,Primary,Manipur,75483.0
+296,Forestry and logging,Primary,Manipur,45831.0
+297,Fishing and aquaculture,Primary,Manipur,35243.0
+298,Mining and quarrying,Primary,Manipur,
+299,Manufacturing,Secondary,Manipur,49501.0
+300,"Electricity, gas, water supply & other utility services",Secondary,Manipur,27490.0
+301,Construction,Secondary,Manipur,143182.0
+302,Trade & repair services,Tertiary,Manipur,253637.0
+303,Hotels & restaurants,Tertiary,Manipur,9313.0
+304,Railways,Tertiary,Manipur,6.0
+305,Road transport,Tertiary,Manipur,58974.0
+306,Water transport,Tertiary,Manipur,
+307,Air transport,Tertiary,Manipur,6288.0
+308,Services incidental to transport,Tertiary,Manipur,2441.0
+309,Storage,Tertiary,Manipur,
+310,Communication & services related to broadcasting,Tertiary,Manipur,42017.0
+311,Financial services,Tertiary,Manipur,30315.0
+312,"Real estate, ownership of dwelling & professional services",Tertiary,Manipur,159335.0
+313,Public administration,Tertiary,Manipur,297078.0
+314,Other services,Tertiary,Manipur,317930.0
+315,Crops,Primary,Meghalaya,223330.0
+316,Livestock,Primary,Meghalaya,72442.0
+317,Forestry and logging,Primary,Meghalaya,61166.0
+318,Fishing and aquaculture,Primary,Meghalaya,9583.0
+319,Mining and quarrying,Primary,Meghalaya,84529.0
+320,Manufacturing,Secondary,Meghalaya,433213.0
+321,"Electricity, gas, water supply & other utility services",Secondary,Meghalaya,54473.0
+322,Construction,Secondary,Meghalaya,150256.0
+323,Trade & repair services,Tertiary,Meghalaya,357727.0
+324,Hotels & restaurants,Tertiary,Meghalaya,26247.0
+325,Railways,Tertiary,Meghalaya,0.0
+326,Road transport,Tertiary,Meghalaya,105783.0
+327,Water transport,Tertiary,Meghalaya,
+328,Air transport,Tertiary,Meghalaya,1443.0
+329,Services incidental to transport,Tertiary,Meghalaya,
+330,Storage,Tertiary,Meghalaya,416.0
+331,Communication & services related to broadcasting,Tertiary,Meghalaya,40547.0
+332,Financial services,Tertiary,Meghalaya,64091.0
+333,"Real estate, ownership of dwelling & professional services",Tertiary,Meghalaya,150409.0
+334,Public administration,Tertiary,Meghalaya,239782.0
+335,Other services,Tertiary,Meghalaya,214211.0
+336,Crops,Primary,Mizoram,116609.0
+337,Livestock,Primary,Mizoram,45590.0
+338,Forestry and logging,Primary,Mizoram,47763.0
+339,Fishing and aquaculture,Primary,Mizoram,7048.0
+340,Mining and quarrying,Primary,Mizoram,8588.0
+341,Manufacturing,Secondary,Mizoram,8479.0
+342,"Electricity, gas, water supply & other utility services",Secondary,Mizoram,128365.0
+343,Construction,Secondary,Mizoram,133228.0
+344,Trade & repair services,Tertiary,Mizoram,111324.0
+345,Hotels & restaurants,Tertiary,Mizoram,2991.0
+346,Railways,Tertiary,Mizoram,32.0
+347,Road transport,Tertiary,Mizoram,34684.0
+348,Water transport,Tertiary,Mizoram,331.0
+349,Air transport,Tertiary,Mizoram,144.0
+350,Services incidental to transport,Tertiary,Mizoram,0.0
+351,Storage,Tertiary,Mizoram,0.0
+352,Communication & services related to broadcasting,Tertiary,Mizoram,17395.0
+353,Financial services,Tertiary,Mizoram,23168.0
+354,"Real estate, ownership of dwelling & professional services",Tertiary,Mizoram,55068.0
+355,Public administration,Tertiary,Mizoram,206259.0
+356,Other services,Tertiary,Mizoram,186222.0
+357,Crops,Primary,Nagaland,375825.0
+358,Livestock,Primary,Nagaland,123800.0
+359,Forestry and logging,Primary,Nagaland,99802.0
+360,Fishing and aquaculture,Primary,Nagaland,8470.0
+361,Mining and quarrying,Primary,Nagaland,8280.0
+362,Manufacturing,Secondary,Nagaland,18346.0
+363,"Electricity, gas, water supply & other utility services",Secondary,Nagaland,37944.0
+364,Construction,Secondary,Nagaland,156072.0
+365,Trade & repair services,Tertiary,Nagaland,134174.0
+366,Hotels & restaurants,Tertiary,Nagaland,6607.0
+367,Railways,Tertiary,Nagaland,336.0
+368,Road transport,Tertiary,Nagaland,34548.0
+369,Water transport,Tertiary,Nagaland,600.0
+370,Air transport,Tertiary,Nagaland,4153.0
+371,Services incidental to transport,Tertiary,Nagaland,0.0
+372,Storage,Tertiary,Nagaland,89.0
+373,Communication & services related to broadcasting,Tertiary,Nagaland,37794.0
+374,Financial services,Tertiary,Nagaland,60393.0
+375,"Real estate, ownership of dwelling & professional services",Tertiary,Nagaland,159651.0
+376,Public administration,Tertiary,Nagaland,295424.0
+377,Other services,Tertiary,Nagaland,259186.0
+378,Crops,Primary,Odisha,4382636.0
+379,Livestock,Primary,Odisha,788243.0
+380,Forestry and logging,Primary,Odisha,791463.0
+381,Fishing and aquaculture,Primary,Odisha,460636.0
+382,Mining and quarrying,Primary,Odisha,2586328.0
+383,Manufacturing,Secondary,Odisha,5754229.0
+384,"Electricity, gas, water supply & other utility services",Secondary,Odisha,833067.0
+385,Construction,Secondary,Odisha,2402396.0
+386,Trade & repair services,Tertiary,Odisha,2886789.0
+387,Hotels & restaurants,Tertiary,Odisha,262766.0
+388,Railways,Tertiary,Odisha,341494.0
+389,Road transport,Tertiary,Odisha,973144.0
+390,Water transport,Tertiary,Odisha,50349.0
+391,Air transport,Tertiary,Odisha,15354.0
+392,Services incidental to transport,Tertiary,Odisha,117469.0
+393,Storage,Tertiary,Odisha,22675.0
+394,Communication & services related to broadcasting,Tertiary,Odisha,513531.0
+395,Financial services,Tertiary,Odisha,1065147.0
+396,"Real estate, ownership of dwelling & professional services",Tertiary,Odisha,2348714.0
+397,Public administration,Tertiary,Odisha,1318221.0
+398,Other services,Tertiary,Odisha,2340603.0
+399,Crops,Primary,Punjab,5690972.0
+400,Livestock,Primary,Punjab,2638842.0
+401,Forestry and logging,Primary,Punjab,848245.0
+402,Fishing and aquaculture,Primary,Punjab,107657.0
+403,Mining and quarrying,Primary,Punjab,10354.0
+404,Manufacturing,Secondary,Punjab,4790341.0
+405,"Electricity, gas, water supply & other utility services",Secondary,Punjab,911611.0
+406,Construction,Secondary,Punjab,2202962.0
+407,Trade & repair services,Tertiary,Punjab,4201252.0
+408,Hotels & restaurants,Tertiary,Punjab,218667.0
+409,Railways,Tertiary,Punjab,233389.0
+410,Road transport,Tertiary,Punjab,928575.0
+411,Water transport,Tertiary,Punjab,0.0
+412,Air transport,Tertiary,Punjab,4473.0
+413,Services incidental to transport,Tertiary,Punjab,48124.0
+414,Storage,Tertiary,Punjab,76429.0
+415,Communication & services related to broadcasting,Tertiary,Punjab,660819.0
+416,Financial services,Tertiary,Punjab,2057520.0
+417,"Real estate, ownership of dwelling & professional services",Tertiary,Punjab,3142786.0
+418,Public administration,Tertiary,Punjab,1842730.0
+419,Other services,Tertiary,Punjab,3303041.0
+420,Crops,Primary,Rajasthan,7673441.0
+421,Livestock,Primary,Rajasthan,5356257.0
+422,Forestry and logging,Primary,Rajasthan,1956660.0
+423,Fishing and aquaculture,Primary,Rajasthan,58036.0
+424,Mining and quarrying,Primary,Rajasthan,4069385.0
+425,Manufacturing,Secondary,Rajasthan,6552580.0
+426,"Electricity, gas, water supply & other utility services",Secondary,Rajasthan,1122888.0
+427,Construction,Secondary,Rajasthan,5353326.0
+428,Trade & repair services,Tertiary,Rajasthan,6942748.0
+429,Hotels & restaurants,Tertiary,Rajasthan,354543.0
+430,Railways,Tertiary,Rajasthan,464638.0
+431,Road transport,Tertiary,Rajasthan,2121206.0
+432,Water transport,Tertiary,Rajasthan,0.0
+433,Air transport,Tertiary,Rajasthan,13469.0
+434,Services incidental to transport,Tertiary,Rajasthan,47609.0
+435,Storage,Tertiary,Rajasthan,16584.0
+436,Communication & services related to broadcasting,Tertiary,Rajasthan,1150955.0
+437,Financial services,Tertiary,Rajasthan,1827413.0
+438,"Real estate, ownership of dwelling & professional services",Tertiary,Rajasthan,6451997.0
+439,Public administration,Tertiary,Rajasthan,2460364.0
+440,Other services,Tertiary,Rajasthan,4164287.0
+441,Crops,Primary,Sikkim,114976.0
+442,Livestock,Primary,Sikkim,17338.0
+443,Forestry and logging,Primary,Sikkim,4529.0
+444,Fishing and aquaculture,Primary,Sikkim,604.0
+445,Mining and quarrying,Primary,Sikkim,1329.0
+446,Manufacturing,Secondary,Sikkim,550697.0
+447,"Electricity, gas, water supply & other utility services",Secondary,Sikkim,212499.0
+448,Construction,Secondary,Sikkim,82058.0
+449,Trade & repair services,Tertiary,Sikkim,64624.0
+450,Hotels & restaurants,Tertiary,Sikkim,5945.0
+451,Railways,Tertiary,Sikkim,0.0
+452,Road transport,Tertiary,Sikkim,35283.0
+453,Water transport,Tertiary,Sikkim,0.0
+454,Air transport,Tertiary,Sikkim,0.0
+455,Services incidental to transport,Tertiary,Sikkim,0.0
+456,Storage,Tertiary,Sikkim,0.0
+457,Communication & services related to broadcasting,Tertiary,Sikkim,12064.0
+458,Financial services,Tertiary,Sikkim,21079.0
+459,"Real estate, ownership of dwelling & professional services",Tertiary,Sikkim,75330.0
+460,Public administration,Tertiary,Sikkim,119514.0
+461,Other services,Tertiary,Sikkim,149265.0
+462,Crops,Primary,Tamil Nadu,7297820.0
+463,Livestock,Primary,Tamil Nadu,4693361.0
+464,Forestry and logging,Primary,Tamil Nadu,392705.0
+465,Fishing and aquaculture,Primary,Tamil Nadu,680352.0
+466,Mining and quarrying,Primary,Tamil Nadu,265536.0
+467,Manufacturing,Secondary,Tamil Nadu,18914794.0
+468,"Electricity, gas, water supply & other utility services",Secondary,Tamil Nadu,1710379.0
+469,Construction,Secondary,Tamil Nadu,12216718.0
+470,Trade & repair services,Tertiary,Tamil Nadu,11252588.0
+471,Hotels & restaurants,Tertiary,Tamil Nadu,1643253.0
+472,Railways,Tertiary,Tamil Nadu,468553.0
+473,Road transport,Tertiary,Tamil Nadu,3660994.0
+474,Water transport,Tertiary,Tamil Nadu,70414.0
+475,Air transport,Tertiary,Tamil Nadu,180836.0
+476,Services incidental to transport*,,Tamil Nadu,864407.0
+477,Storage,Tertiary,Tamil Nadu,39834.0
+478,Communication & services related to broadcasting,Tertiary,Tamil Nadu,1903283.0
+479,Financial services,Tertiary,Tamil Nadu,5598498.0
+480,"Real estate, ownership of dwelling & professional services",Tertiary,Tamil Nadu,16830213.0
+481,Public administration,Tertiary,Tamil Nadu,3400800.0
+482,Other services,Tertiary,Tamil Nadu,7430115.0
+483,Crops,Primary,Telangana,4162493.0
+484,Livestock,Primary,Telangana,2951299.0
+485,Forestry and logging,Primary,Telangana,210741.0
+486,Fishing and aquaculture,Primary,Telangana,266968.0
+487,Mining and quarrying,Primary,Telangana,1541853.0
+488,Manufacturing,Secondary,Telangana,6353711.0
+489,"Electricity, gas, water supply & other utility services",Secondary,Telangana,716266.0
+490,Construction,Secondary,Telangana,2854024.0
+491,Trade & repair services,Tertiary,Telangana,5724128.0
+492,Hotels & restaurants,Tertiary,Telangana,770479.0
+493,Railways,Tertiary,Telangana,199686.0
+494,Road transport,Tertiary,Telangana,2055658.0
+495,Water transport,Tertiary,Telangana,0.0
+496,Air transport,Tertiary,Telangana,120691.0
+497,Services incidental to transport,Tertiary,Telangana,454909.0
+498,Storage,Tertiary,Telangana,19805.0
+499,Communication & services related to broadcasting,Tertiary,Telangana,753992.0
+500,Financial services,Tertiary,Telangana,3023729.0
+501,"Real estate, ownership of dwelling & professional services",Tertiary,Telangana,9478839.0
+502,Public administration,Tertiary,Telangana,1711265.0
+503,Other services,Tertiary,Telangana,4158229.0
+504,Crops,Primary,Tripura,397591.0
+505,Livestock,Primary,Tripura,88176.0
+506,Forestry and logging,Primary,Tripura,145096.0
+507,Fishing and aquaculture,Primary,Tripura,168961.0
+508,Mining and quarrying,Primary,Tripura,142391.0
+509,Manufacturing,Secondary,Tripura,228625.0
+510,"Electricity, gas, water supply & other utility services",Secondary,Tripura,77870.0
+511,Construction,Secondary,Tripura,177899.0
+512,Trade & repair services,Tertiary,Tripura,390423.0
+513,Hotels & restaurants,Tertiary,Tripura,
+514,Railways,Tertiary,Tripura,305.0
+515,Road transport,Tertiary,Tripura,
+516,Water transport,Tertiary,Tripura,
+517,Air transport,Tertiary,Tripura,
+518,Services incidental to transport*,,Tripura,88721.0
+519,Storage,Tertiary,Tripura,254.0
+520,Communication & services related to broadcasting,Tertiary,Tripura,66676.0
+521,Financial services,Tertiary,Tripura,86094.0
+522,"Real estate, ownership of dwelling & professional services",Tertiary,Tripura,190704.0
+523,Public administration,Tertiary,Tripura,338244.0
+524,Other services,Tertiary,Tripura,323287.0
+525,Crops,Primary,Uttar Pradesh,16215212.0
+526,Livestock,Primary,Uttar Pradesh,7096876.0
+527,Forestry and logging,Primary,Uttar Pradesh,1404936.0
+528,Fishing and aquaculture,Primary,Uttar Pradesh,380730.0
+529,Mining and quarrying,Primary,Uttar Pradesh,901501.0
+530,Manufacturing,Secondary,Uttar Pradesh,12261649.0
+531,"Electricity, gas, water supply & other utility services",Secondary,Uttar Pradesh,2030625.0
+532,Construction,Secondary,Uttar Pradesh,11256450.0
+533,Trade & repair services,Tertiary,Uttar Pradesh,8476139.0
+534,Hotels & restaurants,Tertiary,Uttar Pradesh,961104.0
+535,Railways,Tertiary,Uttar Pradesh,1618742.0
+536,Road transport,Tertiary,Uttar Pradesh,3645747.0
+537,Water transport,Tertiary,Uttar Pradesh,681.0
+538,Air transport,Tertiary,Uttar Pradesh,36582.0
+539,Services incidental to transport,Tertiary,Uttar Pradesh,16323.0
+540,Storage,Tertiary,Uttar Pradesh,171696.0
+541,Communication & services related to broadcasting,Tertiary,Uttar Pradesh,1914737.0
+542,Financial services,Tertiary,Uttar Pradesh,3392275.0
+543,"Real estate, ownership of dwelling & professional services",Tertiary,Uttar Pradesh,14548185.0
+544,Public administration,Tertiary,Uttar Pradesh,6152124.0
+545,Other services,Tertiary,Uttar Pradesh,5034623.0
+546,Crops,Primary,Uttarakhand,866146.0
+547,Livestock,Primary,Uttarakhand,391188.0
+548,Forestry and logging,Primary,Uttarakhand,339293.0
+549,Fishing and aquaculture,Primary,Uttarakhand,4796.0
+550,Mining and quarrying,Primary,Uttarakhand,244549.0
+551,Manufacturing,Secondary,Uttarakhand,5866252.0
+552,"Electricity, gas, water supply & other utility services",Secondary,Uttarakhand,433880.0
+553,Construction,Secondary,Uttarakhand,1342733.0
+554,Trade & repair services,Tertiary,Uttarakhand,1534073.0
+555,Hotels & restaurants,Tertiary,Uttarakhand,209033.0
+556,Railways,Tertiary,Uttarakhand,21295.0
+557,Road transport*,,Uttarakhand,307147.0
+558,Water transport,Tertiary,Uttarakhand,
+559,Air transport,Tertiary,Uttarakhand,3889.0
+560,Services incidental to transport,Tertiary,Uttarakhand,-76.0
+561,Storage,Tertiary,Uttarakhand,660.0
+562,Communication & services related to broadcasting,Tertiary,Uttarakhand,733778.0
+563,Financial services,Tertiary,Uttarakhand,385030.0
+564,"Real estate, ownership of dwelling & professional services",Tertiary,Uttarakhand,831307.0
+565,Public administration,Tertiary,Uttarakhand,579409.0
+566,Other services,Tertiary,Uttarakhand,982430.0
